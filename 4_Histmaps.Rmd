@@ -1,0 +1,83 @@
+---
+title: "Swedish County and Parish Maps"
+author: "Benedikt Graf"
+date: "11/22/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Load Libraries and Setup Environment
+
+```{r, warning=FALSE, message=FALSE}
+#install.packages("remotes")
+#install.packages("devtools")
+#install.packages("rgdal")
+install.packages("sf")
+remotes::install_github("junkka/histmaps")
+```
+
+```{r, warning=FALSE, message=FALSE}
+library(remotes)
+library(histmaps)
+library(knitr)
+library(ggplot2)
+library(dplyr)
+library(maptools)
+library(sp)
+library(raster)
+library(rgdal)
+library(sf)
+library(tidyr)
+library(readr)
+```
+
+## County-level Data
+
+```{r, warning=FALSE}
+c_map <- hist_boundaries("1820", "county", "df")
+meta_c <- hist_boundaries("1820", "county", "meta")
+
+ggplot(c_map, aes(long, lat, group = group)) +
+  geom_polygon(fill = "white", color = "black") + coord_equal() + 
+  theme_void()
+
+#write.csv(meta_c,"counties_meta.csv"
+```  
+
+## Parish-level Data
+
+```{r, warning=FALSE}
+p_map <- hist_boundaries("1820", "parish", "df")
+meta_p <- hist_boundaries("1820", "parish", "meta")
+
+bd_map <- p_map %>% filter(county == 25)
+
+ggplot(bd_map, aes(long, lat, group = group)) +
+  geom_polygon(fill = "white", color = "black") + coord_equal() + 
+  theme_void()
+
+#write.csv(meta_p,"parishes_meta.csv"
+``` 
+
+## Saving the Data
+
+```{r, message=FALSE, warning=FALSE}
+c_map <- hist_boundaries("1820", "county", "sf")
+meta_c <- hist_boundaries("1820", "county", "meta")
+
+waypoints_c <-  c_map %>% sf::st_as_sf(waypoints_c = c("long", "lat"), crs = 2400)
+c_map_updated <- sf::st_transform(waypoints_c, crs = "WGS84")
+
+#sf::st_write(c_map_updated, "SE_counties.shp")
+
+
+p_map <- hist_boundaries("1820", "parish", "sf")
+#crs(p_map)
+
+waypoints_sf <-  p_map %>% sf::st_as_sf(coords = c("long", "lat"), crs = 2400)
+p_map_updated <- sf::st_transform(waypoints_sf, crs = "WGS84")
+
+#st_write(p_map_updated, "my_shapefile_new.shp")
+```
+```
