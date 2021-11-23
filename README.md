@@ -1,4 +1,4 @@
-# Capstone Project
+# Capstone Code
 
 This repository holds the code that I wrote for my Capstone Project, <BR>
 submitted in partial fulfillment of the requirements for the Master of Arts in Quantitative Economics at UCLA.
