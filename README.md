@@ -12,5 +12,5 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
 Sources:   
 TBD
   
-Los Angeles
+Los Angeles,
 November 22, 2021
