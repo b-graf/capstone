@@ -1,7 +1,7 @@
 # Capstone Project
 
 This repository holds the code that I wrote for my Capstone Project, <BR>
-submitted in partial fulfillment of the requirements for the Master of Arts in Qunatitative Economics at UCLA.
+submitted in partial fulfillment of the requirements for the Master of Arts in Quantitative Economics at UCLA.
 
 1_ Provides all processing steps performed to the raw data (Table 1) <BR> 
 2_ Shows some visualizations (Figure 1, Table 2, Table 3) <BR>
