@@ -8,10 +8,10 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
 3_   string-matching methods <BR>
 4_   fetch data from R::histmap (Figure 2) <BR>
 5_   results (Table 4, Table 5, Figure 3) <BR>
-<BR>
   
 The [data folder](https://github.com/b-graf/capstone/tree/main/data) holds sample data for 100 individuals.
-
+<BR>
+  
 **Data Sources:** <BR>
   
 FamilySearch Genealogy Data retrieved by Dora L. Costa and Joseph P. Price <BR>
