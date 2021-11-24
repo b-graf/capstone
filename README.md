@@ -13,10 +13,9 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
   
 FamilySearch Genealogy Data retrieved by Dora L. Costa and Joseph P. Price <BR>
 
-<BR>
-Global Administrative Areas (2021). GADM database of Global Administrative Areas, version 3.6. Retrieved November 15, 2021, from https://gadm.org![image](https://user-images.githubusercontent.com/74732334/143152129-560d988a-a427-4178-9dad-05e3aaf51c6c.png) <BR>
-<BR>
-Junkka, J. (2021). histmaps: generate Swedish historical administrative boundaries. R package version 0.2.9999. https://github.com/junkka/histmaps![image](https://user-images.githubusercontent.com/74732334/143152151-9344a496-390e-4958-adcf-cd986e20fac0.png) <BR>
+Global Administrative Areas (2021). GADM database of Global Administrative Areas, version 3.6. Retrieved November 15, 2021, from https://gadm.org <BR>
+
+Junkka, J. (2021). histmaps: generate Swedish historical administrative boundaries. R package version 0.2.9999. https://github.com/junkka/histmaps <BR>
 
   
 Los Angeles,
