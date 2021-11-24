@@ -5,7 +5,7 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
 
 1_   all processing steps performed to the raw data <BR> 
 2_   visualizations and descriptive staistics (Table 1, Table 2, Table 3, Figure 1) <BR>
-3_   string-matching methods <BR>
+3_   geolocation (string-matching) methods <BR>
 4_   fetch data from R::histmap (Figure 2) <BR>
 5_   results (Table 4, Table 5, Figure 3) <BR>
   
