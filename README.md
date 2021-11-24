@@ -25,6 +25,5 @@ Junkka, J. (2021). histmaps: generate Swedish historical administrative boundari
 <BR>
   
 ##   
-<BR>
 Los Angeles, <BR>
 November 23, 2021
