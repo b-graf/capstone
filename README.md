@@ -9,6 +9,8 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
 4_   fetch data from R::histmap (Figure 2) <BR>
 5_   results (Table 4, Table 5, Figure 3) <BR>
 <BR>
+  
+The [data folder](capstone/data) holds sample data fro 100 individuals.
 
 **Data Sources:** <BR>
   
