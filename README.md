@@ -6,7 +6,7 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
   
 ## Contents
 
-1_   all processing steps performed to the raw data <BR> 
+1_   all processing steps performed on the raw data <BR> 
 2_   visualizations and descriptive staistics (Table 1, Table 2, Table 3, Figure 1) <BR>
 3_   geolocation (string-matching) methods <BR>
 4_   fetch data from R::histmap (Figure 2) <BR>
