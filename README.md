@@ -2,6 +2,10 @@
 
 This repository holds the code that I wrote for my Capstone Project, <BR>
 submitted in partial fulfillment of the requirements for the Master of Arts in Quantitative Economics at UCLA.
+  
+##
+  
+## Contents
 
 1_   all processing steps performed to the raw data <BR> 
 2_   visualizations and descriptive staistics (Table 1, Table 2, Table 3, Figure 1) <BR>
