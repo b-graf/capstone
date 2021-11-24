@@ -11,6 +11,8 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
   
 The [data folder](https://github.com/b-graf/capstone/tree/main/data) holds sample data for 100 individuals from Norrbotten.
 <BR>
+##
+<BR>
 
 ## Data Sources
   
