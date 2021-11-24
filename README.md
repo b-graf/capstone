@@ -23,6 +23,7 @@ Global Administrative Areas (2021). GADM database of Global Administrative Areas
 Junkka, J. (2021). histmaps: generate Swedish historical administrative boundaries. R package version 0.2.9999. https://github.com/junkka/histmaps <BR>
   
 <BR>
+  
 ##   
 <BR>
 Los Angeles, <BR>
