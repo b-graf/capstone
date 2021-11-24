@@ -8,6 +8,7 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
 3_   string-matching methods <BR>
 4_   fetch data from R::histmap (Figure 2) <BR>
 5_   results (Table 4, Table 5, Figure 3) <BR>
+<BR>
 
 **Data Sources:** <BR>
   
@@ -17,6 +18,6 @@ Global Administrative Areas (2021). GADM database of Global Administrative Areas
 
 Junkka, J. (2021). histmaps: generate Swedish historical administrative boundaries. R package version 0.2.9999. https://github.com/junkka/histmaps <BR>
 
-  
+<BR>
 Los Angeles,
 November 22, 2021
