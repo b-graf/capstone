@@ -3,14 +3,14 @@
 This repository holds the code that I wrote for my Capstone Project, <BR>
 submitted in partial fulfillment of the requirements for the Master of Arts in Quantitative Economics at UCLA.
 
-[1_](https://github.com/b-graf/capstone/1_Processing): all processing steps performed to the raw data (Table 1) <BR> 
+1_   all processing steps performed to the raw data (Table 1) <BR> 
 2_   visualizations and descriptive staistics (Figure 1, Table 2, Table 3) <BR>
 3_   string-matching methods <BR>
 4_   fetch data from R::histmap (Figure 2) <BR>
 5_   results (Table 4, Table 5, Figure 3) <BR>
 <BR>
   
-The [data folder](https://github.com/b-graf/capstone/data) holds sample data fro 100 individuals.
+The [data folder](https://github.com/b-graf/capstone/tree/main/data) holds sample data for 100 individuals.
 
 **Data Sources:** <BR>
   
