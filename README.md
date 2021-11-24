@@ -12,7 +12,8 @@ submitted in partial fulfillment of the requirements for the Master of Arts in Q
 The [data folder](https://github.com/b-graf/capstone/tree/main/data) holds sample data for 100 individuals from Norrbotten.
 <BR>
 <BR>
-**Data Sources:** <BR>
+
+## Data Sources: 
   
 FamilySearch Genealogy Data retrieved by Dora L. Costa and Joseph P. Price <BR>
 
@@ -20,6 +21,7 @@ Global Administrative Areas (2021). GADM database of Global Administrative Areas
 
 Junkka, J. (2021). histmaps: generate Swedish historical administrative boundaries. R package version 0.2.9999. https://github.com/junkka/histmaps <BR>
 
+## 
 <BR>
 Los Angeles, <BR>
 November 23, 2021
